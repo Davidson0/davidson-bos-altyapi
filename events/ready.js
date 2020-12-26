@@ -24,6 +24,7 @@ setInterval(function() {
 
 client.user.setStatus("invisible");
 /*
+Davidson
 idle yerine yazılabilecekler
 dnd 
 idle
